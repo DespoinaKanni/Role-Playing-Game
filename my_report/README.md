@@ -2,7 +2,7 @@
 
 ### First and Last Name: Δέσποινα Καννή Ρεμπούλη
 ### University Registration Number: dpsd17042
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/DespoinaKanni
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
