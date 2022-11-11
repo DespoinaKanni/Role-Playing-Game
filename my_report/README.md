@@ -3,7 +3,7 @@
 ### First and Last Name: Δέσποινα Καννή Ρεμπούλη
 ### University Registration Number: dpsd17042
 ### GitHub Personal Profile: https://github.com/DespoinaKanni
-### Digital & Serious Games Personal Repository: xxx
+### Digital & Serious Games Personal Repository: https://github.com/DespoinaKanni/Role-Playing-Game
 
 # Introduction
 
@@ -33,7 +33,7 @@
 
 Για να φτιάξω το *`περιβάλλον-κόσμο`* όπου θα υπάρχει μέσα ο χαρακτήρας μου, έφτιαξα ένα `grid` και ένα `tilemap` μέσα σε αυτό τοποθέτησα την φωτογραφία από το έδαφος στο οποίο θα κινείται ο χαρακτήρας μου.
 
-Στην συνέχεια ακολούθησα το [τέταρτο tutorial](https://learn.unity.com/tutorial/decorating-the-world?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5ce2878aedbc2a0704649372) για να διακοσμήσω το περιβάλλον μου
+Στην συνέχεια ακολούθησα το [τέταρτο tutorial](https://learn.unity.com/tutorial/decorating-the-world?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5ce2878aedbc2a0704649372) για να διακοσμήσω το περιβάλλον μου.
 
 Άνοιξα τις φωτογραφίες με τα `διάφορα αντικείμενα` μου όπου ήταν ξεχωριστά το ένα από το άλλο. Διακόσμησα το κάθε αντικείμενο μέσα στην σκηνή μου. Προσάρμοσα τον παίχτη ώστε να μπορεί να πηγαίνει πίσω από τα αντικείμενα.
 
