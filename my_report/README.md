@@ -184,6 +184,15 @@
 
 ![bullet prefab](https://user-images.githubusercontent.com/100956507/208260109-620199ac-33f3-4d21-8ba9-f550fdea857b.PNG)
 
+Ο παίκτης πυροβολεί με το ποντίκι και με το control.
+
+
+### Camera - Cinemachine
+
+Κατέβασα την κάμερα από το unity και την έβαλα να ακολουθεί τον παίχτη.
+
+
+
 
 
 
