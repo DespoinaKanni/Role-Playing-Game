@@ -61,7 +61,7 @@
 
 ![character](https://user-images.githubusercontent.com/100956507/208249253-2b85df9b-d36f-480a-98d1-27a4651bcf58.PNG)
 
-Η πίστα μου μαζί με τον χαρακτήρα. 
+`Η πίστα μου μαζί με τον χαρακτήρα.` 
 
 ![pista](https://user-images.githubusercontent.com/100956507/208249363-bba183eb-5ee4-473b-9f37-8c1252313874.PNG)
 
@@ -74,7 +74,7 @@
 ![box](https://user-images.githubusercontent.com/100956507/208250595-197ae476-3618-4a81-8d21-7c8576ec31c1.PNG)
 
 
-Έβαλα 4 Box Collider στις άκρες της πίστας και έθεσα τα όρια για να μην βγαίνει έξω από την πίστα ο χαρακτήρας.
+`Έβαλα 4 Box Collider στις άκρες της πίστας και έθεσα τα όρια για να μην βγαίνει έξω από την πίστα ο χαρακτήρας.`
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/100956507/208251063-4b01d604-4744-43d0-98f2-f3f82dfc7fe5.png)
 
@@ -91,6 +91,16 @@
 ![rock2col](https://user-images.githubusercontent.com/100956507/208251808-1eec6d2b-0412-4880-8058-48040ed0a73f.PNG)
 
 ![rockcol](https://user-images.githubusercontent.com/100956507/208251815-ee5064c3-54c9-47c9-b780-3a80e2d49177.PNG)
+
+
+Βρήκα από το internet κόκκινη καρδούλα και την πρόσθεσα στα sprites. Έβαλα Polygon Collider και τσέκαρα το is trigger. Έπειτα έφτιαξα ένα script όπου το ονόμασα HealthCollectible, πρόσθεσα και άλλαξα τον κώδικα του χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Τέλος, έκανα την καρδούλα Prefab και την τοποθέτησα σε διάφορα σημεία της πίστας μου.  
+
+![heart](https://user-images.githubusercontent.com/100956507/208253003-7c21f4d4-8917-43d4-8c68-a2b258d2a476.PNG)
+
+![heartprefab](https://user-images.githubusercontent.com/100956507/208253011-ee731321-2fd4-4bd3-8233-73c991b27e3d.PNG)
+
+
+
 
 
 
