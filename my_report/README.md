@@ -163,6 +163,7 @@
 ![Screenshot (17)](https://user-images.githubusercontent.com/100956507/208256666-050b924a-4d9d-452c-9a01-8173be3508e5.png)
 
 
+
 ### World Interactions - Projectile
 
 `Βρήκα μια σφαίρα από το διαδίκτυο και την έβαλα στα assets`
@@ -175,36 +176,13 @@
 
 ![koytakkia](https://user-images.githubusercontent.com/100956507/208257457-5b4f6435-8274-4030-8f3e-e37fdd7d3e7a.PNG)
 
+Έφτιαξα ένα script για την σφαίρα και το ονόμασα Bullet.
 
+Πρόσθεσα τους κώδικες για το Bullet και για τον χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) και κάλεσα το "Boom" ώστε όταν φεύγει η σφαίρα να γίνεται ταυτόχρονα και το animation που πυροβολεί.
 
+Τέλος, έβαλα την σφαίρα στον παίχτη στο Projectile Prefab 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![bullet prefab](https://user-images.githubusercontent.com/100956507/208260109-620199ac-33f3-4d21-8ba9-f550fdea857b.PNG)
 
 
 
