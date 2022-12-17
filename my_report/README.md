@@ -131,6 +131,8 @@
 Για τον χαρακτήρα, τις παγίδες και τον εχθρό πρόσθεσα τον κώδικα από το [tutorial](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c).
 
 
+### Sprite Animation
+
 `Έφτιαξα animation για το:`
 
 * Idle
@@ -151,6 +153,15 @@
 ![Screenshot (14)](https://user-images.githubusercontent.com/100956507/208256263-2984de12-0ab9-48b6-9487-04a738d5a9ee.png)
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/100956507/208256268-cbf153d7-6488-4edf-b808-ead5fbdf4e49.png)
+
+
+
+Τα animators του εχθρού:
+
+![snakeanim](https://user-images.githubusercontent.com/100956507/208256601-5e79cd22-ec85-4d68-80d0-a2b54a45a76e.PNG)
+
+![Screenshot (17)](https://user-images.githubusercontent.com/100956507/208256666-050b924a-4d9d-452c-9a01-8173be3508e5.png)
+
 
 
 
