@@ -79,6 +79,27 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/100956507/208251063-4b01d604-4744-43d0-98f2-f3f82dfc7fe5.png)
 
 
+Έβαλα στα αντικείμενα και στον παίκτη layers. Τέλος, έθεσα σε ορισμένα αντικείμενα Box Collider για να μην τα διαπερνάει ο παίκτης.
+Κάποια αντικείμενα που έχουν Box Collider είναι:
+
+![buildingscol](https://user-images.githubusercontent.com/100956507/208251788-7fcfe933-4c16-4613-b9a7-95247b4a0f23.PNG)
+
+![carcol](https://user-images.githubusercontent.com/100956507/208251796-a5d9767d-84fd-458b-93c8-5227da720b4e.PNG)
+
+![lakecol](https://user-images.githubusercontent.com/100956507/208251799-7e11477b-c7ce-4b8c-828d-6b60ce359abd.PNG)
+
+![rock2col](https://user-images.githubusercontent.com/100956507/208251808-1eec6d2b-0412-4880-8058-48040ed0a73f.PNG)
+
+![rockcol](https://user-images.githubusercontent.com/100956507/208251815-ee5064c3-54c9-47c9-b780-3a80e2d49177.PNG)
+
+
+
+
+
+
+
+
+
 
 
 
