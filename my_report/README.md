@@ -110,7 +110,7 @@
 
 ![pagides](https://user-images.githubusercontent.com/100956507/208254158-431916df-dfd2-4512-a536-396499426cf9.PNG)
 
-`Πρόσθεσα στις παγίδες *Polygon Collider* και *Rigidbody 2D*`
+`Πρόσθεσα στις παγίδες Polygon Collider και Rigidbody 2D`
 
 ![pagidescol](https://user-images.githubusercontent.com/100956507/208254430-ff08e84d-551c-456e-bf9f-4f8620b16fc2.PNG)
 
@@ -122,7 +122,7 @@
 
 ![enemy](https://user-images.githubusercontent.com/100956507/208255025-b25478ad-f921-43f8-8242-e6421bc0841a.PNG)
 
-`Πρόσθεσα στον εχθρό *Polygon Collider* και *Rigidbody 2D*.`
+`Πρόσθεσα στον εχθρό Polygon Collider και Rigidbody 2D.`
 
 ![enemycol](https://user-images.githubusercontent.com/100956507/208255348-d71e88e2-c567-4d46-90c2-6ba8b5d18b89.PNG)
 
@@ -144,7 +144,7 @@
 
 Έφτιαξα στα assets έναν φάκελο όπου το ονόμασα animations και τα αποθήκευσα όλα εκεί.
 
-Τα animators του παίχτη:
+`Τα animators του παίχτη:`
 
 ![animatorschar](https://user-images.githubusercontent.com/100956507/208256216-ad370af3-697d-4e6c-8bb4-4c73cb36eab5.PNG)
 
@@ -156,7 +156,7 @@
 
 
 
-Τα animators του εχθρού:
+`Τα animators του εχθρού:`
 
 ![snakeanim](https://user-images.githubusercontent.com/100956507/208256601-5e79cd22-ec85-4d68-80d0-a2b54a45a76e.PNG)
 
