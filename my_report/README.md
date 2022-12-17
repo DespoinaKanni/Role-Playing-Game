@@ -55,6 +55,8 @@
 
 # 2nd Deliverable
 
+### World Interactions - Blocking Movement
+
 Άλλαξα χαρακτήρα και βρήκα έναν άλλον που ταιριάζει καλύτερα με θέμα της πίστας. Στον χαρακτήρα πρόσθεσα ότι κώδικα χρειαζόταν από το προηγούμενο παραδοτέο ώστε ο χαρακτήρας-ήρωας να κινείται κάθετα και οριζόντια μέσω του πληκτρολογίου. Έπειτα διαμόρφωσα και διακόσμησα καλύτερα την πίστα μου. Πρόσθεσα περισσότερα αντικείμενα και έβαλα τα όρια οπου θα μπορεί να φτάνει και να κινείται ο χαρακτήρας μου.
 
 Τον χαρακτήρα τον βρήκα από το [link](https://www.gameart2d.com/adventurer-girl---free-sprites.html)
@@ -65,7 +67,7 @@
 
 ![pista](https://user-images.githubusercontent.com/100956507/208249363-bba183eb-5ee4-473b-9f37-8c1252313874.PNG)
 
-Έβαλα στον χαρακτήρα Rigidbody 2D και άλλαξα το gravity σε μηδεν, το sleeping mode σε never sleep και τσέκαρα το freez rotation στον άξονα z. Έπειτα πρόσθεσα και Box Collider στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου Prefab. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+- Έβαλα στον χαρακτήρα *Rigidbody 2D* και άλλαξα το *gravity σε μηδεν*, το *sleeping mode σε never sleep* και τσέκαρα το *freez rotation στον άξονα z*. Έπειτα πρόσθεσα και *Box Collider* στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου *Prefab*. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
 
 ![characteridle](https://user-images.githubusercontent.com/100956507/208250568-3f39739b-aedf-4f12-a210-684ba70b49a9.PNG)
 
@@ -79,8 +81,8 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/100956507/208251063-4b01d604-4744-43d0-98f2-f3f82dfc7fe5.png)
 
 
-Έβαλα στα αντικείμενα και στον παίκτη layers. Τέλος, έθεσα σε ορισμένα αντικείμενα Box Collider για να μην τα διαπερνάει ο παίκτης.
-Κάποια αντικείμενα που έχουν Box Collider είναι:
+Έβαλα στα αντικείμενα και στον παίκτη *layers*. Τέλος, έθεσα σε ορισμένα αντικείμενα *Box Collider* για να μην τα διαπερνάει ο παίκτης.
+`Κάποια αντικείμενα που έχουν Box Collider είναι:`
 
 ![buildingscol](https://user-images.githubusercontent.com/100956507/208251788-7fcfe933-4c16-4613-b9a7-95247b4a0f23.PNG)
 
@@ -93,11 +95,54 @@
 ![rockcol](https://user-images.githubusercontent.com/100956507/208251815-ee5064c3-54c9-47c9-b780-3a80e2d49177.PNG)
 
 
-Βρήκα από το internet κόκκινη καρδούλα και την πρόσθεσα στα sprites. Έβαλα Polygon Collider και τσέκαρα το is trigger. Έπειτα έφτιαξα ένα script όπου το ονόμασα HealthCollectible, πρόσθεσα και άλλαξα τον κώδικα του χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Τέλος, έκανα την καρδούλα Prefab και την τοποθέτησα σε διάφορα σημεία της πίστας μου.  
+### World Interactions - Collectibles
+
+Βρήκα από το internet κόκκινη καρδούλα και την πρόσθεσα στα sprites. Έβαλα *Polygon Collider* και τσέκαρα το *is trigger*. Έπειτα έφτιαξα ένα script όπου το ονόμασα HealthCollectible, πρόσθεσα και άλλαξα τον κώδικα του χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Τέλος, έκανα την καρδούλα Prefab και την τοποθέτησα σε διάφορα σημεία της πίστας μου.  
 
 ![heart](https://user-images.githubusercontent.com/100956507/208253003-7c21f4d4-8917-43d4-8c68-a2b258d2a476.PNG)
 
 ![heartprefab](https://user-images.githubusercontent.com/100956507/208253011-ee731321-2fd4-4bd3-8233-73c991b27e3d.PNG)
+
+
+### World Interactions - Damage Zones and Enemies
+
+`Επέλεξα κάποια από τα ήδη υπάρχοντα αντικείμενα της πίστας μου, να είναι οι παγίδες.` 
+
+![pagides](https://user-images.githubusercontent.com/100956507/208254158-431916df-dfd2-4512-a536-396499426cf9.PNG)
+
+`Πρόσθεσα στις παγίδες *Polygon Collider* και *Rigidbody 2D*`
+
+![pagidescol](https://user-images.githubusercontent.com/100956507/208254430-ff08e84d-551c-456e-bf9f-4f8620b16fc2.PNG)
+
+`Έπειτα έφτιαξα ένα script για τις παγίδες όπου το ονόμασα DamageZone.`
+
+Βρήκα από το [διαδίκτυο](https://opengameart.org/content/snake-2d-remix-with-dead-animation) το φίδι όπου είναι ο εχθρός μου και τον πρόσθεσα στα assets και στην πίστα μου.
+
+![enemychar](https://user-images.githubusercontent.com/100956507/208255003-ff22715a-b7b0-4063-acf4-e0de832a6c90.PNG)
+
+![enemy](https://user-images.githubusercontent.com/100956507/208255025-b25478ad-f921-43f8-8242-e6421bc0841a.PNG)
+
+`Πρόσθεσα στον εχθρό *Polygon Collider* και *Rigidbody 2D*.`
+
+![enemycol](https://user-images.githubusercontent.com/100956507/208255348-d71e88e2-c567-4d46-90c2-6ba8b5d18b89.PNG)
+
+`Έπειτα έφτιαξα ένα script για τον εχθρό όπου το ονόμασα EnemyController.`
+
+Για τον χαρακτήρα, τις παγίδες και τον εχθρό πρόσθεσα τον κώδικα από το [tutorial](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
