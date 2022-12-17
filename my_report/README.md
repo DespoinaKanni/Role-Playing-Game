@@ -163,6 +163,24 @@
 ![Screenshot (17)](https://user-images.githubusercontent.com/100956507/208256666-050b924a-4d9d-452c-9a01-8173be3508e5.png)
 
 
+### World Interactions - Projectile
+
+`Βρήκα μια σφαίρα από το διαδίκτυο και την έβαλα στα assets`
+
+![bullet](https://user-images.githubusercontent.com/100956507/208257307-e7f1edcb-efab-4d7f-b86d-83c2f12f9f25.png)
+
+`Έφτιαξα τα layer του χαρακτήρα και της σφαίρας`
+
+![layer](https://user-images.githubusercontent.com/100956507/208257444-4d62b572-5729-4959-9c97-16de2dbda3d5.PNG)
+
+![koytakkia](https://user-images.githubusercontent.com/100956507/208257457-5b4f6435-8274-4030-8f3e-e37fdd7d3e7a.PNG)
+
+
+
+
+
+
+
 
 
 
