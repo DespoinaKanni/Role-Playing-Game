@@ -131,6 +131,32 @@
 Για τον χαρακτήρα, τις παγίδες και τον εχθρό πρόσθεσα τον κώδικα από το [tutorial](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c).
 
 
+`Έφτιαξα animation για το:`
+
+* Idle
+* Run
+* Hit όπου ο χαρακτήρας τραυματίζεται όταν πεφτει στον εχθρό ή στην παγίδα.
+* Boom όπου ο χαρακτήρας πυροβολεί.
+* Enemy όπου το φίδι κουνιέται
+* Enemydead όπου το φίδι πεθαίνει 
+
+Έφτιαξα στα assets έναν φάκελο όπου το ονόμασα animations και τα αποθήκευσα όλα εκεί.
+
+Τα animators του παίχτη:
+
+![animatorschar](https://user-images.githubusercontent.com/100956507/208256216-ad370af3-697d-4e6c-8bb4-4c73cb36eab5.PNG)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/100956507/208256255-f5027c04-7bb5-4c22-a195-21d792a19cdb.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/100956507/208256263-2984de12-0ab9-48b6-9487-04a738d5a9ee.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/100956507/208256268-cbf153d7-6488-4edf-b808-ead5fbdf4e49.png)
+
+
+
+
+
+
 
 
 
