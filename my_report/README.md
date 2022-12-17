@@ -67,7 +67,7 @@
 
 ![pista](https://user-images.githubusercontent.com/100956507/208249363-bba183eb-5ee4-473b-9f37-8c1252313874.PNG)
 
-- Έβαλα στον χαρακτήρα *Rigidbody 2D* και άλλαξα το *gravity σε μηδεν*, το *sleeping mode σε never sleep* και τσέκαρα το *freez rotation στον άξονα z*. Έπειτα πρόσθεσα και *Box Collider* στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου *Prefab*. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+Έβαλα στον χαρακτήρα *Rigidbody 2D* και άλλαξα το *gravity σε μηδεν*, το *sleeping mode σε never sleep* και τσέκαρα το *freez rotation στον άξονα z*. Έπειτα πρόσθεσα και *Box Collider* στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου *Prefab*. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
 
 ![characteridle](https://user-images.githubusercontent.com/100956507/208250568-3f39739b-aedf-4f12-a210-684ba70b49a9.PNG)
 
