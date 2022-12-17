@@ -55,6 +55,35 @@
 
 # 2nd Deliverable
 
+Άλλαξα χαρακτήρα και βρήκα έναν άλλον που ταιριάζει καλύτερα με θέμα της πίστας. Στον χαρακτήρα πρόσθεσα ότι κώδικα χρειαζόταν από το προηγούμενο παραδοτέο ώστε ο χαρακτήρας-ήρωας να κινείται κάθετα και οριζόντια μέσω του πληκτρολογίου. Έπειτα διαμόρφωσα και διακόσμησα καλύτερα την πίστα μου. Πρόσθεσα περισσότερα αντικείμενα και έβαλα τα όρια οπου θα μπορεί να φτάνει και να κινείται ο χαρακτήρας μου.
+
+Τον χαρακτήρα τον βρήκα από το [link](https://www.gameart2d.com/adventurer-girl---free-sprites.html)
+
+![character](https://user-images.githubusercontent.com/100956507/208249253-2b85df9b-d36f-480a-98d1-27a4651bcf58.PNG)
+
+Η πίστα μου μαζί με τον χαρακτήρα. 
+
+![pista](https://user-images.githubusercontent.com/100956507/208249363-bba183eb-5ee4-473b-9f37-8c1252313874.PNG)
+
+Έβαλα στον χαρακτήρα Rigidbody 2D και άλλαξα το gravity σε μηδεν, το sleeping mode σε never sleep και τσέκαρα το freez rotation στον άξονα z. Έπειτα πρόσθεσα και Box Collider στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου Prefab. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+
+![characteridle](https://user-images.githubusercontent.com/100956507/208250568-3f39739b-aedf-4f12-a210-684ba70b49a9.PNG)
+
+![rigibody](https://user-images.githubusercontent.com/100956507/208250577-1f606b80-fcfc-4775-bc68-a24f3d74a47e.PNG)
+
+![box](https://user-images.githubusercontent.com/100956507/208250595-197ae476-3618-4a81-8d21-7c8576ec31c1.PNG)
+
+
+Έβαλα 4 Box Collider στις άκρες της πίστας και έθεσα τα όρια για να μην βγαίνει έξω από την πίστα ο χαρακτήρας.
+
+![Screenshot (2)](https://user-images.githubusercontent.com/100956507/208251063-4b01d604-4744-43d0-98f2-f3f82dfc7fe5.png)
+
+
+
+
+
+
+
 
 # 3rd Deliverable 
 
