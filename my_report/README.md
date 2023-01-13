@@ -209,7 +209,7 @@
 
 ### Visual Styling - User Interface - Head-Up Display
 
-Διάλεξα μια μπάρα ζωής η οποία είχε ξεχωστά την άδεια μπάρα και το κόκκινο χρώμα της. Έφτιαξα το Canvas όπου έκανα παιδί του το Health ( η άδεια μπάρα), το Mask και το UIHealthBar η κόκκινη μπάρα. Δημιούργησα ένα script για χάνει ζωή ο παίκτης και έτσι να κατεβαίνει η μπάρα και το πρόσθεσα στο UIHealthBar. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-ui-head-up-display?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+Διάλεξα μια μπάρα ζωής η οποία είχε ξεχωστά την άδεια μπάρα και το κόκκινο χρώμα της. Έφτιαξα το Canvas όπου έκανα παιδί του το Health ( η άδεια μπάρα), το Mask και το UIHealthBar (η κόκκινη μπάρα). Δημιούργησα ένα script για χάνει ζωή ο παίκτης και έτσι να κατεβαίνει η μπάρα και το πρόσθεσα στο UIHealthBar. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-ui-head-up-display?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
 
 * `Health, Mask, UIHealthBar`
 
@@ -219,8 +219,11 @@
 
 ![uihealthbar](https://user-images.githubusercontent.com/100956507/212333873-3ea4542e-9520-42c7-b23a-763b0ed2e137.PNG)
 
-* `HealthBar η μπάρα 
+* `HealthBar η μπάρα που αδειάζει όταν ο παίκτης πέφτει πάνω στα φίδια και στις παγίδες (κάκτος, φωτιά).`
 
+![Screenshot (3)](https://user-images.githubusercontent.com/100956507/212347257-95270717-977f-4608-9f33-4ecccd075be2.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/100956507/212347328-628e0ccb-e019-40b3-8d51-f526ecbfa3b1.png)
 
 
 
