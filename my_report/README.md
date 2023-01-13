@@ -235,14 +235,14 @@
 
 Ακολούθησα το [tutorial](https://www.youtube.com/watch?v=cOW_T3i4_kk) από το youtube για κάνω το score. Επέλεξα ο παίκτης να βρίσκει και να συλλέγει ένα μπουκάλι από τεκίλα και έτσι να αυξάνεται το score. Έφτιαξα ένα Text στο Canvas και το τοποθέτησα πάνω δεξιά στην πίστα. Έφτιαξα ένα script όπου το ονόμα score και εκεί πρόσθεσα τον κώδικα που είδα από το tutorial. To script του score το πρόσθεσα στον παίκτη. Στο μπουκάλι έβαλα collider, το αντίστοιχο sprite και tag ώστε να συνδέεται με τον κώδικα του score.
 
-* Μπουκάλι τεκίλας 
+* `Μπουκάλι τεκίλας` 
 
 ![bottle](https://user-images.githubusercontent.com/100956507/212351999-06810f44-9f63-4087-b227-33fc2381ee12.PNG)
 
 ![mpoykali](https://user-images.githubusercontent.com/100956507/212356597-3dc9cf64-823c-49a1-ab33-d126e00680db.PNG)
 
 
-* Αύξηση score 
+* `Αύξηση score` 
 
 ![score](https://user-images.githubusercontent.com/100956507/212352745-1185307e-0774-4271-b58a-f866e691d362.PNG)
 
