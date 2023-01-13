@@ -242,7 +242,7 @@
 ![mpoykali](https://user-images.githubusercontent.com/100956507/212356597-3dc9cf64-823c-49a1-ab33-d126e00680db.PNG)
 
 
-* `Αύξηση score` 
+* `Αύξηση score όταν παίρνω το μπουκάλι` 
 
 ![score](https://user-images.githubusercontent.com/100956507/212352745-1185307e-0774-4271-b58a-f866e691d362.PNG)
 
