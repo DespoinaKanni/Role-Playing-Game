@@ -194,8 +194,17 @@
 ![camera](https://user-images.githubusercontent.com/100956507/208263133-165cdda8-b413-40dc-a4ea-358373325246.PNG)
 
 
-
 # 3rd Deliverable 
+
+### Visual Styling - Particles
+
+Βρήκα από το διαδίκτυο ένα μπλε εφέ, του έβαλα τις απαραίτητες ιδιότητες ώστε να φαίνεται μέσα στα όρια της πίστας και γενικά να είναι ομαλή η προβολή του.
+Το έκανα prefab και το πρόσθεσα μέσα στις καρδούλες που είναι οι ζωές του παίκτη. Όταν ο παίκτης συλλέγει την καρδούλα αυτόματα το εφέ εξαφανίζεται μαζί της.
+
+![Screenshot (1)](https://user-images.githubusercontent.com/100956507/212329781-e9705fb0-b775-4aba-b21f-60977e04b5ac.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/100956507/212329819-79b9b91d-1a6f-4a94-883b-4a0a773457e2.png)
+
 
 
 # Conclusions
