@@ -219,11 +219,15 @@
 
 ![uihealthbar](https://user-images.githubusercontent.com/100956507/212333873-3ea4542e-9520-42c7-b23a-763b0ed2e137.PNG)
 
+
 * `HealthBar η μπάρα που αδειάζει όταν ο παίκτης πέφτει πάνω στα φίδια και στις παγίδες (κάκτος, φωτιά).`
 
-![Screenshot (3)](https://user-images.githubusercontent.com/100956507/212347257-95270717-977f-4608-9f33-4ecccd075be2.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/100956507/212347328-628e0ccb-e019-40b3-8d51-f526ecbfa3b1.png)
+![barfull](https://user-images.githubusercontent.com/100956507/212349722-2af7f2e9-9e07-4ac9-bd76-de26ac229ef5.PNG)
+
+
+![barempty](https://user-images.githubusercontent.com/100956507/212349835-3371e32a-c983-41d4-8bc5-6f1bea081583.PNG)
+
 
 
 
