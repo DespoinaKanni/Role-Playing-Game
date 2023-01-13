@@ -199,12 +199,32 @@
 ### Visual Styling - Particles
 
 Βρήκα από το διαδίκτυο ένα μπλε εφέ, του έβαλα τις απαραίτητες ιδιότητες ώστε να φαίνεται μέσα στα όρια της πίστας και γενικά να είναι ομαλή η προβολή του.
-Το έκανα prefab και το πρόσθεσα μέσα στις καρδούλες που είναι οι ζωές του παίκτη. Όταν ο παίκτης συλλέγει την καρδούλα αυτόματα το εφέ εξαφανίζεται μαζί της. Όλες οι καρδούλες έχουν το μπλε εφέ.
+Το έκανα prefab και το πρόσθεσα μέσα στις καρδούλες που είναι οι ζωές του παίκτη. Όταν ο παίκτης συλλέγει την καρδούλα αυτόματα το εφέ εξαφανίζεται μαζί της. Όλες οι καρδούλες έχουν το μπλε εφέ. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-particles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/100956507/212329781-e9705fb0-b775-4aba-b21f-60977e04b5ac.png)
 
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/100956507/212329819-79b9b91d-1a6f-4a94-883b-4a0a773457e2.png)
+
+
+### Visual Styling - User Interface - Head-Up Display
+
+Διάλεξα μια μπάρα ζωής η οποία είχε ξεχωστά την άδεια μπάρα και το κόκκινο χρώμα της. Έφτιαξα το Canvas όπου έκανα παιδί του το Health ( η άδεια μπάρα), το Mask και το UIHealthBar η κόκκινη μπάρα. Δημιούργησα ένα script για χάνει ζωή ο παίκτης και έτσι να κατεβαίνει η μπάρα και το πρόσθεσα στο UIHealthBar. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-ui-head-up-display?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+
+* `Health, Mask, UIHealthBar`
+
+![health](https://user-images.githubusercontent.com/100956507/212333826-0949085e-fd0f-4837-a72d-aafa4bda0816.PNG)
+
+![mask](https://user-images.githubusercontent.com/100956507/212333849-0a0fc9ea-dad6-46ab-8e88-0938465d8b71.PNG)
+
+![uihealthbar](https://user-images.githubusercontent.com/100956507/212333873-3ea4542e-9520-42c7-b23a-763b0ed2e137.PNG)
+
+* `HealthBar η μπάρα 
+
+
+
+
+
 
 
 
