@@ -55,6 +55,145 @@
 
 # 2nd Deliverable
 
+### World Interactions - Blocking Movement
+
+Άλλαξα χαρακτήρα και βρήκα έναν άλλον που ταιριάζει καλύτερα με θέμα της πίστας. Στον χαρακτήρα πρόσθεσα ότι κώδικα χρειαζόταν από το προηγούμενο παραδοτέο ώστε ο χαρακτήρας-ήρωας να κινείται κάθετα και οριζόντια μέσω του πληκτρολογίου. Έπειτα διαμόρφωσα και διακόσμησα καλύτερα την πίστα μου. Πρόσθεσα περισσότερα αντικείμενα και έβαλα τα όρια οπου θα μπορεί να φτάνει και να κινείται ο χαρακτήρας μου.
+
+Τον χαρακτήρα τον βρήκα από το [link](https://www.gameart2d.com/adventurer-girl---free-sprites.html)
+
+![character](https://user-images.githubusercontent.com/100956507/208249253-2b85df9b-d36f-480a-98d1-27a4651bcf58.PNG)
+
+`Η πίστα μου μαζί με τον χαρακτήρα.` 
+
+![pista](https://user-images.githubusercontent.com/100956507/208249363-bba183eb-5ee4-473b-9f37-8c1252313874.PNG)
+
+Έβαλα στον χαρακτήρα *Rigidbody 2D* και άλλαξα το *gravity σε μηδεν*, το *sleeping mode σε never sleep* και τσέκαρα το *freez rotation στον άξονα z*. Έπειτα πρόσθεσα και *Box Collider* στα πόδια του χαρακτήρα μου. Έκανα τον χαρακτήρα μου *Prefab*. Άλλαξα το script του χαρακτήρα μου σύμφωνα με το [tutorial](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+
+![characteridle](https://user-images.githubusercontent.com/100956507/208250568-3f39739b-aedf-4f12-a210-684ba70b49a9.PNG)
+
+![rigibody](https://user-images.githubusercontent.com/100956507/208250577-1f606b80-fcfc-4775-bc68-a24f3d74a47e.PNG)
+
+![box](https://user-images.githubusercontent.com/100956507/208250595-197ae476-3618-4a81-8d21-7c8576ec31c1.PNG)
+
+
+`Έβαλα 4 Box Collider στις άκρες της πίστας και έθεσα τα όρια για να μην βγαίνει έξω από την πίστα ο χαρακτήρας.`
+
+![Screenshot (2)](https://user-images.githubusercontent.com/100956507/208251063-4b01d604-4744-43d0-98f2-f3f82dfc7fe5.png)
+
+
+Έβαλα στα αντικείμενα και στον παίκτη *layers*. Τέλος, έθεσα σε ορισμένα αντικείμενα *Box Collider* για να μην τα διαπερνάει ο παίκτης.
+`Κάποια αντικείμενα που έχουν Box Collider είναι:`
+
+![buildingscol](https://user-images.githubusercontent.com/100956507/208251788-7fcfe933-4c16-4613-b9a7-95247b4a0f23.PNG)
+
+![carcol](https://user-images.githubusercontent.com/100956507/208251796-a5d9767d-84fd-458b-93c8-5227da720b4e.PNG)
+
+![lakecol](https://user-images.githubusercontent.com/100956507/208251799-7e11477b-c7ce-4b8c-828d-6b60ce359abd.PNG)
+
+![rock2col](https://user-images.githubusercontent.com/100956507/208251808-1eec6d2b-0412-4880-8058-48040ed0a73f.PNG)
+
+![rockcol](https://user-images.githubusercontent.com/100956507/208251815-ee5064c3-54c9-47c9-b780-3a80e2d49177.PNG)
+
+
+### World Interactions - Collectibles
+
+Βρήκα από το internet κόκκινη καρδούλα και την πρόσθεσα στα sprites. Έβαλα *Polygon Collider* και τσέκαρα το *is trigger*. Έπειτα έφτιαξα ένα script όπου το ονόμασα HealthCollectible, πρόσθεσα και άλλαξα τον κώδικα του χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Τέλος, έκανα την καρδούλα Prefab και την τοποθέτησα σε διάφορα σημεία της πίστας μου.  
+
+![heart](https://user-images.githubusercontent.com/100956507/208253003-7c21f4d4-8917-43d4-8c68-a2b258d2a476.PNG)
+
+![heartprefab](https://user-images.githubusercontent.com/100956507/208253011-ee731321-2fd4-4bd3-8233-73c991b27e3d.PNG)
+
+
+### World Interactions - Damage Zones and Enemies
+
+`Επέλεξα κάποια από τα ήδη υπάρχοντα αντικείμενα της πίστας μου, να είναι οι παγίδες.` 
+
+![pagides](https://user-images.githubusercontent.com/100956507/208254158-431916df-dfd2-4512-a536-396499426cf9.PNG)
+
+`Πρόσθεσα στις παγίδες Polygon Collider και Rigidbody 2D`
+
+![pagidescol](https://user-images.githubusercontent.com/100956507/208254430-ff08e84d-551c-456e-bf9f-4f8620b16fc2.PNG)
+
+`Έπειτα έφτιαξα ένα script για τις παγίδες όπου το ονόμασα DamageZone.`
+
+Βρήκα από το [διαδίκτυο](https://opengameart.org/content/snake-2d-remix-with-dead-animation) το φίδι όπου είναι ο εχθρός μου και τον πρόσθεσα στα assets και στην πίστα μου.
+
+![enemychar](https://user-images.githubusercontent.com/100956507/208255003-ff22715a-b7b0-4063-acf4-e0de832a6c90.PNG)
+
+![enemy](https://user-images.githubusercontent.com/100956507/208255025-b25478ad-f921-43f8-8242-e6421bc0841a.PNG)
+
+`Πρόσθεσα στον εχθρό Polygon Collider και Rigidbody 2D.`
+
+![enemycol](https://user-images.githubusercontent.com/100956507/208255348-d71e88e2-c567-4d46-90c2-6ba8b5d18b89.PNG)
+
+`Έπειτα έφτιαξα ένα script για τον εχθρό όπου το ονόμασα EnemyController.`
+
+Για τον χαρακτήρα, τις παγίδες και τον εχθρό πρόσθεσα τον κώδικα από το [tutorial](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c).
+
+
+### Sprite Animation
+
+`Έφτιαξα animation για το:`
+
+* Idle
+* Run
+* Hit όπου ο χαρακτήρας τραυματίζεται όταν πεφτει στον εχθρό ή στην παγίδα.
+* Boom όπου ο χαρακτήρας πυροβολεί.
+* Enemy όπου το φίδι κουνιέται
+* Enemydead όπου το φίδι πεθαίνει 
+
+Έφτιαξα στα assets έναν φάκελο όπου το ονόμασα animations και τα αποθήκευσα όλα εκεί.
+
+`Τα animators του παίχτη:`
+
+![animatorschar](https://user-images.githubusercontent.com/100956507/208256216-ad370af3-697d-4e6c-8bb4-4c73cb36eab5.PNG)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/100956507/208256255-f5027c04-7bb5-4c22-a195-21d792a19cdb.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/100956507/208256263-2984de12-0ab9-48b6-9487-04a738d5a9ee.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/100956507/208256268-cbf153d7-6488-4edf-b808-ead5fbdf4e49.png)
+
+
+
+`Τα animators του εχθρού:`
+
+![snakeanim](https://user-images.githubusercontent.com/100956507/208256601-5e79cd22-ec85-4d68-80d0-a2b54a45a76e.PNG)
+
+![Screenshot (17)](https://user-images.githubusercontent.com/100956507/208256666-050b924a-4d9d-452c-9a01-8173be3508e5.png)
+
+
+
+### World Interactions - Projectile
+
+`Βρήκα μια σφαίρα από το διαδίκτυο και την έβαλα στα assets`
+
+![bullet](https://user-images.githubusercontent.com/100956507/208257307-e7f1edcb-efab-4d7f-b86d-83c2f12f9f25.png)
+
+`Έφτιαξα τα layer του χαρακτήρα και της σφαίρας`
+
+![layer](https://user-images.githubusercontent.com/100956507/208257444-4d62b572-5729-4959-9c97-16de2dbda3d5.PNG)
+
+![koytakkia](https://user-images.githubusercontent.com/100956507/208257457-5b4f6435-8274-4030-8f3e-e37fdd7d3e7a.PNG)
+
+Έφτιαξα ένα script για την σφαίρα και το ονόμασα Bullet.
+
+Πρόσθεσα τους κώδικες για το Bullet και για τον χαρακτήρα μου από το [tutorial](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c) και κάλεσα το "Boom" ώστε όταν φεύγει η σφαίρα να γίνεται ταυτόχρονα και το animation που πυροβολεί.
+
+Τέλος, έβαλα την σφαίρα στον παίχτη στο Projectile Prefab 
+
+![bullet prefab](https://user-images.githubusercontent.com/100956507/208260109-620199ac-33f3-4d21-8ba9-f550fdea857b.PNG)
+
+Ο παίκτης πυροβολεί με το ποντίκι και με το control.
+
+
+### Camera - Cinemachine
+
+Κατέβασα την κάμερα από το unity και την έβαλα να ακολουθεί τον παίχτη.
+
+![camera](https://user-images.githubusercontent.com/100956507/208263133-165cdda8-b413-40dc-a4ea-358373325246.PNG)
+
+
 
 # 3rd Deliverable 
 
