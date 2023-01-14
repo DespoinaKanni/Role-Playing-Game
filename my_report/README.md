@@ -251,7 +251,7 @@
 
 ### World Interactions - Dialog Raycast
 
-Βρήκα έναν καουμποι και τον πρόσθεσα στην σκηνή. Έφτιαξα ένα script με κώδικα που βρήκα μέσα από το [tutorial Dialog Raycast](https://learn.unity.com/tutorial/world-interactions-dialogue-raycast?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Αυτό το script το έβαλα στον καουμποι. Έπειτα πρόσθεσα στο canvas text και το τοποθέτησα πάνω από τον καουμποι. Το text περιέχει κείμενο. Ο παίκτης όταν πηγαίνει κοντά στον ακίνητο καουμποι πρέπει να πατήσει το Χ και έτσι θα εμφανιστεί ο διάλογος που θα λεει να μαζέψει τις τεκίλες.
+Βρήκα έναν καουμποι asset και τον πρόσθεσα στην σκηνή. Έφτιαξα ένα script με κώδικα που βρήκα μέσα από το [tutorial Dialog Raycast](https://learn.unity.com/tutorial/world-interactions-dialogue-raycast?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#). Αυτό το script το έβαλα στον καουμποι. Έπειτα πρόσθεσα στο canvas ένα text και το τοποθέτησα πάνω από τον καουμποι. Το text περιέχει κείμενο. Ο παίκτης όταν πηγαίνει κοντά στον ακίνητο καουμποι πρέπει να πατήσει το Χ και έτσι θα εμφανιστεί ο διάλογος που θα λεει να μαζέψει τις τεκίλες.
 
 
 ![Στιγμιότυπο οθόνης (343)](https://user-images.githubusercontent.com/100956507/212471751-7436189a-d08f-48cf-87f5-d13e8083f000.png)
