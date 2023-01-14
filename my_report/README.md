@@ -209,7 +209,7 @@
 
 ### Visual Styling - User Interface - Head-Up Display
 
-Διάλεξα μια μπάρα ζωής η οποία είχε ξεχωστά την άδεια μπάρα και το κόκκινο χρώμα της. Έφτιαξα το Canvas όπου έκανα παιδί του το Health ( η άδεια μπάρα), το Mask και το UIHealthBar (η κόκκινη μπάρα). Δημιούργησα ένα script για χάνει ζωή ο παίκτης και έτσι να κατεβαίνει η μπάρα και το πρόσθεσα στο UIHealthBar. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-ui-head-up-display?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
+Διάλεξα μια μπάρα ζωής η οποία είχε ξεχωστά την άδεια μπάρα και το κόκκινο χρώμα της. Έφτιαξα το Canvas όπου έκανα παιδί του το Health ( η άδεια μπάρα), το Mask και το UIHealthBar (η κόκκινη μπάρα). Δημιούργησα ένα script όπου όταν χάνει ζωή ο παίκτης να κατεβαίνει η μπάρα και το πρόσθεσα στο UIHealthBar. Ακολούθησα το [tutorial](https://learn.unity.com/tutorial/visual-styling-ui-head-up-display?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c)
 
 * `Health, Mask, UIHealthBar`
 
