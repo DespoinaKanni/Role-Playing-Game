@@ -261,7 +261,8 @@
 
 ![Στιγμιότυπο οθόνης (343)](https://user-images.githubusercontent.com/100956507/212471751-7436189a-d08f-48cf-87f5-d13e8083f000.png)
 
-![Στιγμιότυπο οθόνης (344)](https://user-images.githubusercontent.com/100956507/212471768-a6b362bc-eea9-47ea-8e41-daef597c0891.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/100956507/212499995-54edc157-d80a-4ecf-9968-e48cb60ae98d.png)
+
 
 
 ### Teleport
@@ -281,7 +282,10 @@
 
 * Ακολούθησα το [tutorial](https://www.youtube.com/watch?v=0JXVT28KCIg) από το youtube. Πήρα τον κώδικα που είχε και τον προσάρμοσα στον κώδικα του παίχτη. Τέλος, έφτιαξα ένα καινούριο script που το ονόμασα Teleporter και εκεί του δήλωσα τον προορίσμο που θα γίνεται η μεταφορά. Αυτό το script το έβαλα και στα δυο αντικείμενα μου που είναι οι σκάλες. 
 
-δυο εικονες θελει 
+![teleporter](https://user-images.githubusercontent.com/100956507/212500238-210b4ac4-2069-428f-b319-8306309fcfcf.PNG)
+
+![teleporter1](https://user-images.githubusercontent.com/100956507/212500245-70c698d1-65c0-40c1-bda0-82ad023eb203.PNG)
+
 
 
 
@@ -300,8 +304,9 @@
 
 Για να δημιουργήσω το μενού ακολούθησα το [tutorial](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=646s) από το youtube. Δημιούργησα μία νέα σκηνή στο παιχνίδι μου, την μορφοποίησα ώστε ο χρήστης να μπορεί να διαλέξει ανάμεσα σε δύο επίπεδα και να δει και τις οδηγίες για τα κουμπιά. Πατώντας Level1 εμφανίζεται η πίστα μου. Δεν έχω δεύτερη πίστα στο level 2.  
 
+![Screenshot (3)](https://user-images.githubusercontent.com/100956507/212500036-4a34a5a0-cf36-4ee4-9fe2-6d63b7219769.png)
 
-![Στιγμιότυπο οθόνης (350)](https://user-images.githubusercontent.com/100956507/212479269-867fceff-4222-401a-b9af-365690e8af39.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/100956507/212500038-d834f22d-9b87-432e-8615-3285427532d3.png)
 
 
 
